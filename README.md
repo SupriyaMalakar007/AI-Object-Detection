@@ -126,9 +126,10 @@ For custom object detection, the project can later be extended by creating a lab
 * [ ] Add a graphical user interface
 * [ ] Add custom dataset annotation tools
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Supriya Malakar**
+**Tanmay Paul**
 
 GitHub: [@SupriyaMalakar007](https://github.com/SupriyaMalakar007)
 
