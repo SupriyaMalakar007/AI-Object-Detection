@@ -129,6 +129,7 @@ For custom object detection, the project can later be extended by creating a lab
 ## 👨‍💻 Authors
 
 **Supriya Malakar**
+
 **Tanmay Paul**
 
 GitHub: [@SupriyaMalakar007](https://github.com/SupriyaMalakar007)
